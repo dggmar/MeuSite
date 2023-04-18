@@ -1,0 +1,50 @@
+body{
+    background-image: url(shutterstock_1017596791.jpg);
+    font-size: 20px;
+}
+
+.titulo{
+    color: rgb(255, 255, 255);
+}
+
+.info{
+    color: rgb(255, 0, 0);
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.digite{
+    color: whitesmoke;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.input1{
+    background-color: antiquewhite;
+    border: 0;
+    height: 30px;
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;
+}
+
+.input2{
+    background-color: antiquewhite;
+    border: 0;
+    height: 30px;
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;
+}
+
+.botao{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    height: 30px;
+    border-radius: 10px;
+    <element
+}
+
+.botao:hover{
+    background-color: rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
+}
